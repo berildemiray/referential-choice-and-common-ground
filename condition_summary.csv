@@ -1,0 +1,5 @@
+common_ground,event_type,n,full_np,rate
+not_shared,predictable,576,289,0.5017361111111112
+not_shared,surprising,576,291,0.5052083333333334
+shared,predictable,576,177,0.3072916666666667
+shared,surprising,576,431,0.7482638888888888

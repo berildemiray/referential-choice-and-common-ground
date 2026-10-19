@@ -1,0 +1,4 @@
+contrast,estimate_pp,CI_low_pp,CI_high_pp
+Surprise effect | shared knowledge,44.09722222222223,39.0625,49.13628472222224
+Surprise effect | not shared,0.34722222222222154,-5.034722222222223,5.729166666666666
+Difference-in-differences,43.75,35.24305555555556,51.90972222222222
